@@ -1,0 +1,13 @@
+{
+    "name": "patrikelfstrom/raw",
+    "type": "wordpress-muplugin",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Patrik Elfström",
+            "email": "me@patrikelfstrom.se"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
